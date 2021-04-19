@@ -16,7 +16,9 @@ Habitee was built using React, Redux, React Router, React Hook Form and Moment. 
 
 ## Using Habiteee
 
-HabitTracker is deployed and ready to use at: https://lyndseyduffield.github.io/habit-tracker/
+Habitee is deployed and ready to use at: https://lyndseyduffield.github.io/habit-tracker/
+
+https://kemojal.github.io/habitee
 
 ## Development
 
