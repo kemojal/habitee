@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/habitee/static/css/main.3aab5fca.chunk.css",
+    "main.js": "/habitee/static/js/main.a44c9942.chunk.js",
+    "main.js.map": "/habitee/static/js/main.a44c9942.chunk.js.map",
+    "runtime-main.js": "/habitee/static/js/runtime-main.22dd634e.js",
+    "runtime-main.js.map": "/habitee/static/js/runtime-main.22dd634e.js.map",
+    "static/css/2.ff9ea1f9.chunk.css": "/habitee/static/css/2.ff9ea1f9.chunk.css",
+    "static/js/2.1ee152a5.chunk.js": "/habitee/static/js/2.1ee152a5.chunk.js",
+    "static/js/2.1ee152a5.chunk.js.map": "/habitee/static/js/2.1ee152a5.chunk.js.map",
+    "index.html": "/habitee/index.html",
+    "precache-manifest.37d04aec7c8dceebda655cc2bfd730dc.js": "/habitee/precache-manifest.37d04aec7c8dceebda655cc2bfd730dc.js",
+    "service-worker.js": "/habitee/service-worker.js",
+    "static/css/2.ff9ea1f9.chunk.css.map": "/habitee/static/css/2.ff9ea1f9.chunk.css.map",
+    "static/css/main.3aab5fca.chunk.css.map": "/habitee/static/css/main.3aab5fca.chunk.css.map",
+    "static/js/2.1ee152a5.chunk.js.LICENSE.txt": "/habitee/static/js/2.1ee152a5.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/habitee/static/media/5ec78d543fc8c0012d4aaa3a_1-min.d422ad4c.jpeg",
+    "static/media/clipshapes.png": "/habitee/static/media/clipshapes.148cdd9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22dd634e.js",
+    "static/css/2.ff9ea1f9.chunk.css",
+    "static/js/2.1ee152a5.chunk.js",
+    "static/css/main.3aab5fca.chunk.css",
+    "static/js/main.a44c9942.chunk.js"
+  ]
+}
